@@ -1,0 +1,10 @@
+h1{
+    color: slategray;
+    background-color: orange;
+}
+p{
+    color: rgb(193, 197, 186);
+    background-color: rgba(227, 195, 236, 0.442);
+    font-size: 20px;
+    text-decoration: underline;
+}
